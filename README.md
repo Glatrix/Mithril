@@ -1,6 +1,8 @@
 # Mithril
 Mithril is a Programming Language based on Javascript syntax
 
+Note: This project may have some references to .js files or javscript code blocks. This is only for visual purposes.
+
 test.js
 ```js
 // Coming Soon:
