@@ -3,7 +3,7 @@ Mithril is a Programming Language based on Javascript syntax
 
 test.js
 ```js
-﻿// Coming Soon:
+// Coming Soon:
 // import("foo.txt") // run a file
 
 // Function for easy logging
