@@ -1,8 +1,8 @@
 # Mithril
 Mithril is a Programming Language based on Javascript syntax
 
-test.txt
-```cs
+test.js
+```js
 ﻿// Coming Soon:
 // import("foo.txt") // run a file
 
